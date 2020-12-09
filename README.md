@@ -7,6 +7,7 @@ Sometimes, navigating to a desired folder on Terminal can take quite some effort
 - `code [filename]` (to open and edit an existing file in Visual Studio Code, or create and open a new file which I can immediately start editing in Visual Studio Code - alternatively `touch [filename]` just creates the file)
 - `ls` commands combined with different flags to quickly view information about the current directory and its containing files and subdirectories, combining flags such as `-a` for hidden files, `-l` for more information regarding permissions, size and last modification time, and `-R` for recursive listings. 
 - `git` commands
+
 Note: on some versions of macOS, Finder will ask for permission to access Terminal when trying to activate the script. Please provide so if prompted.
 
 ## Word Count
