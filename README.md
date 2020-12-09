@@ -19,4 +19,5 @@ This fun but could be useful Bash script quickly toggles settings relevant to Ap
 - Automatic Capitalization
 - Automatic Period Substitution
 - Automatic Text Completion
+
 These settings can be individually and manually toggled under `System Preferences > Keyboard > Text`, although not very convenient, which is why I decided to make this script. I hope you find it helpful!
