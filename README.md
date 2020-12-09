@@ -14,7 +14,7 @@ Note: on some versions of macOS, Finder will ask for permission to access Termin
 This simple Bash script displays the number of words and characters in the selected text. I have personally set this shortcut to be 'Command \\', so upon activating this key combination in any application with text selected, a window then displays the word and character count of the selected text. 
 
 ## Bad Grandmar
-This fun but could be useful Bash script quickly toggles settings relevant to Apple's spell checker and auto text completion features. I find this very useful for typing code in Apple Notes, Email or Microsoft Word, which would otherwise face auto capitalisation, spellchecks and unwanted text completion. Since using `Typora` for taking my notes, I've personally used this script less often, but it is handy just in case I need to quickly jot something code down in Apple Notes or Microsoft Word. The four settings toggled are:
+This fun but could be useful Bash script quickly toggles settings relevant to Apple's spell checker and auto text completion features. I find this very useful for typing code in Apple Notes, Email or Microsoft Word, which would otherwise face auto capitalisation, spellchecks and unwanted text completion. Since using [Typora](https://typora.io/) for note-taking, I've personally used this script less often, but it is handy just in case I need to quickly jot something code down in Apple Notes or Microsoft Word. The four settings toggled are:
 - Automatic Spelling Correction
 - Automatic Capitalization
 - Automatic Period Substitution
